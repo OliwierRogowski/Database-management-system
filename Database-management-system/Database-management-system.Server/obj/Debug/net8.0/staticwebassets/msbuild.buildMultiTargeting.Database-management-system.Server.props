@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Database-management-system.Server.props" />
+</Project>

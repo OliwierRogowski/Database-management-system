@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "A88YlC9GnoHTV95yWpwZlKBmVTVUv9Fe0E2A+y/luhM=",
+  "Source": "Database-management-system.Server",
+  "BasePath": "_content/Database-management-system.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\database-management-system.client.esproj",
+      "Version": 2,
+      "Source": "database-management-system.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

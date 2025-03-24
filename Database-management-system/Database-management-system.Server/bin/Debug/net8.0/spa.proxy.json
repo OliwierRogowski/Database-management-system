@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\Database-management-system.Server\\..\\database-management-system.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
