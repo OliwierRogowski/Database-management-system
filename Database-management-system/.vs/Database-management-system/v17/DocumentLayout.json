@@ -7,32 +7,12 @@
       "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\login-details\\login-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\login-details\\login-details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\shared\\login-details.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\login-details\\login-details.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\login-details\\login-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.server\\models\\logindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|solutionrelative:database-management-system.server\\models\\logindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.server\\models\\logindetailscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|solutionrelative:database-management-system.server\\models\\logindetailscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\environments\\environment.development.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\environments\\environment.development.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\login-details\\login-details.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,48 +23,84 @@
       "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\shared\\login-details.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\shared\\login-details.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.server\\controllers\\logindetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|solutionrelative:database-management-system.server\\controllers\\logindetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\shared\\login-details.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.model.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\shared\\login-details.model.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|solutionrelative:database-management-system.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.server\\models\\logindetailscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|solutionrelative:database-management-system.server\\models\\logindetailscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\shared\\login-details.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\shared\\login-details.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.server\\controllers\\logindetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|solutionrelative:database-management-system.server\\controllers\\logindetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\login-details\\login-details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.server\\models\\logindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|solutionrelative:database-management-system.server\\models\\logindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\environments\\environment.development.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\environments\\environment.development.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.model.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\shared\\login-details.model.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.server\\migrations\\20250327212627_logindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|solutionrelative:database-management-system.server\\migrations\\20250327212627_logindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|solutionrelative:database-management-system.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13D0C2F3-D887-4ACC-A9B3-EC15CFECB259}|Database-management-system.Server\\Database-management-system.Server.csproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -111,10 +123,6 @@
       "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -125,14 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|c:\\users\\orogo\\desktop\\database-management-system\\database-management-system\\database-management-system.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B6345D4D-452A-4731-94B1-A28B3925E712}|database-management-system.client\\database-management-system.client.esproj|solutionrelative:database-management-system.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,7 +150,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "login-details-form.component.ts",
+              "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.ts",
+              "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.ts",
+              "ToolTip": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.ts",
+              "RelativeToolTip": "database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-28T21:05:12.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "login-details.component.css",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details.component.css",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\login-details\\login-details.component.css",
@@ -158,12 +171,11 @@
               "RelativeToolTip": "database-management-system.client\\src\\app\\login-details\\login-details.component.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-27T21:39:49.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T21:39:49.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "20250327212627_LoginDetails.cs",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\Database-management-system.Server\\Migrations\\20250327212627_LoginDetails.cs",
               "RelativeDocumentMoniker": "Database-management-system.Server\\Migrations\\20250327212627_LoginDetails.cs",
@@ -171,12 +183,11 @@
               "RelativeToolTip": "Database-management-system.Server\\Migrations\\20250327212627_LoginDetails.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T21:26:28.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T21:26:28.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\Database-management-system.Server\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Database-management-system.Server\\Properties\\launchSettings.json",
@@ -184,12 +195,11 @@
               "RelativeToolTip": "Database-management-system.Server\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T21:20:27.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T21:20:27.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "angular.json",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\angular.json",
               "RelativeDocumentMoniker": "database-management-system.client\\angular.json",
@@ -197,12 +207,11 @@
               "RelativeToolTip": "database-management-system.client\\angular.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T21:19:26.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T21:19:26.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "login-details.model.spec.ts",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.model.spec.ts",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\shared\\login-details.model.spec.ts",
@@ -210,12 +219,11 @@
               "RelativeToolTip": "database-management-system.client\\src\\app\\shared\\login-details.model.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-27T21:02:40.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T21:02:40.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "login-details.service.spec.ts",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.service.spec.ts",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\shared\\login-details.service.spec.ts",
@@ -223,8 +231,7 @@
               "RelativeToolTip": "database-management-system.client\\src\\app\\shared\\login-details.service.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-27T20:54:32.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T20:54:32.768Z"
             },
             {
               "$type": "Document",
@@ -241,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "login-details.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details.component.spec.ts",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\login-details\\login-details.component.spec.ts",
@@ -254,33 +261,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "login-details.service.ts",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.service.ts",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\shared\\login-details.service.ts",
               "ToolTip": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.service.ts",
               "RelativeToolTip": "database-management-system.client\\src\\app\\shared\\login-details.service.ts",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBQAAAAZAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-27T20:26:14.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "login-details.model.ts",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.model.ts",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\shared\\login-details.model.ts",
               "ToolTip": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\shared\\login-details.model.ts",
               "RelativeToolTip": "database-management-system.client\\src\\app\\shared\\login-details.model.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-27T20:18:08.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T20:18:08.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 16,
               "Title": "login-details-form.component.css",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.css",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.css",
@@ -292,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Database-management-system.Server.http",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\Database-management-system.Server\\Database-management-system.Server.http",
               "RelativeDocumentMoniker": "Database-management-system.Server\\Database-management-system.Server.http",
@@ -300,25 +306,24 @@
               "RelativeToolTip": "Database-management-system.Server\\Database-management-system.Server.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-27T19:54:33.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T19:54:33.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "login-details.component.ts",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details.component.ts",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\login-details\\login-details.component.ts",
               "ToolTip": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details.component.ts",
               "RelativeToolTip": "database-management-system.client\\src\\app\\login-details\\login-details.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-27T19:49:43.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "environment.ts",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\environments\\environment.ts",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\environments\\environment.ts",
@@ -326,12 +331,11 @@
               "RelativeToolTip": "database-management-system.client\\src\\environments\\environment.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-27T19:45:29.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T19:45:29.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "environment.development.ts",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\environments\\environment.development.ts",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\environments\\environment.development.ts",
@@ -339,38 +343,37 @@
               "RelativeToolTip": "database-management-system.client\\src\\environments\\environment.development.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-27T19:42:07.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T19:42:07.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "login-details-form.component.html",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.html",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.html",
               "ToolTip": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.html",
               "RelativeToolTip": "database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-27T19:36:42.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 13,
               "Title": "app.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\app.component.spec.ts",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\app.component.spec.ts",
               "ToolTip": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\app.component.spec.ts",
               "RelativeToolTip": "database-management-system.client\\src\\app\\app.component.spec.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-27T19:36:21.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "login-details-form.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.spec.ts",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.spec.ts",
@@ -383,33 +386,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "login-details-form.component.ts",
-              "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.ts",
-              "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.ts",
-              "ToolTip": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.ts",
-              "RelativeToolTip": "database-management-system.client\\src\\app\\login-details\\login-details-form\\login-details-form.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-27T19:36:01.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 7,
               "Title": "LoginDetailsController.cs",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\Database-management-system.Server\\Controllers\\LoginDetailsController.cs",
               "RelativeDocumentMoniker": "Database-management-system.Server\\Controllers\\LoginDetailsController.cs",
               "ToolTip": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\Database-management-system.Server\\Controllers\\LoginDetailsController.cs",
               "RelativeToolTip": "Database-management-system.Server\\Controllers\\LoginDetailsController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB0AAAAiAAAA",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAQwHEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T19:16:45.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\Database-management-system.Server\\appsettings.json",
               "RelativeDocumentMoniker": "Database-management-system.Server\\appsettings.json",
@@ -422,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "LoginDetailsContext.cs",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\Database-management-system.Server\\Models\\LoginDetailsContext.cs",
               "RelativeDocumentMoniker": "Database-management-system.Server\\Models\\LoginDetailsContext.cs",
@@ -435,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "LoginDetails.cs",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\Database-management-system.Server\\Models\\LoginDetails.cs",
               "RelativeDocumentMoniker": "Database-management-system.Server\\Models\\LoginDetails.cs",
@@ -443,12 +433,11 @@
               "RelativeToolTip": "Database-management-system.Server\\Models\\LoginDetails.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T18:26:16.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T18:26:16.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 9,
               "Title": "app.component.ts",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\app.component.ts",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\app.component.ts",
@@ -461,33 +450,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "app.module.ts",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\app.module.ts",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\app.module.ts",
               "ToolTip": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\app.module.ts",
               "RelativeToolTip": "database-management-system.client\\src\\app\\app.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-27T17:09:04.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "app.component.html",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\app.component.html",
               "ToolTip": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\app.component.html",
               "RelativeToolTip": "database-management-system.client\\src\\app\\app.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-24T19:30:15.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T19:30:15.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 19,
               "Title": "app.component.css",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\app.component.css",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\app.component.css",
@@ -499,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "app-routing.module.ts",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\app\\app-routing.module.ts",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\app\\app-routing.module.ts",
@@ -512,19 +500,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 18,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\index.html",
               "RelativeDocumentMoniker": "database-management-system.client\\src\\index.html",
               "ToolTip": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\src\\index.html",
               "RelativeToolTip": "database-management-system.client\\src\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAADUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-24T19:29:29.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "karma.conf.js",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\karma.conf.js",
               "RelativeDocumentMoniker": "database-management-system.client\\karma.conf.js",
@@ -536,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "aspnetcore-https.js",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\aspnetcore-https.js",
               "RelativeDocumentMoniker": "database-management-system.client\\aspnetcore-https.js",
@@ -548,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\Database-management-system.Server\\Program.cs",
               "RelativeDocumentMoniker": "Database-management-system.Server\\Program.cs",
@@ -556,12 +544,11 @@
               "RelativeToolTip": "Database-management-system.Server\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAUwCAAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T19:28:42.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T19:28:42.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "launch.json",
               "DocumentMoniker": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\database-management-system.client\\.vscode\\launch.json",
               "RelativeDocumentMoniker": "database-management-system.client\\.vscode\\launch.json",

@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Database_management_system.Server.Models;
+using Microsoft.AspNetCore.Identity.Data;
+using Microsoft.CodeAnalysis.Scripting;
 
 namespace Database_management_system.Server.Controllers
 {
@@ -14,6 +16,12 @@ namespace Database_management_system.Server.Controllers
     public class LoginDetailsController : ControllerBase
     {
         private readonly LoginDetailsContext _context;
+
+        public class LoginRequest
+        {
+            public string Login { get; set; }
+            public string Password { get; set; }
+        }
 
         public LoginDetailsController(LoginDetailsContext context)
         {
@@ -82,6 +90,29 @@ namespace Database_management_system.Server.Controllers
 
             return CreatedAtAction("GetLoginDetails", new { id = loginDetails.UserId }, loginDetails);
         }
+        [HttpPost("checkCredentials")]
+        public async Task<IActionResult> CheckCredentials([FromBody] LoginRequest request)
+        {
+            if (string.IsNullOrEmpty(request.Password) || string.IsNullOrEmpty(request.Login))
+                return BadRequest("Login and password can't be empty");
+
+            // Sprawdzanie, czy użytkownik istnieje w bazie
+            var user = await _context.LoginDetails
+                .Where(u => u.LoginName == request.Login)
+                .FirstOrDefaultAsync();
+
+            if (user == null)
+                return Unauthorized("Invalid login or password"); // Użytkownik nie znaleziony
+
+            // Weryfikacja hasła
+            bool passwordMatch = BCrypt.Net.BCrypt.Verify(request.Password, user.Password);
+
+            if (!passwordMatch)
+                return Unauthorized("Invalid login or password"); // Złe hasło
+
+            return Ok(true); // Użytkownik i hasło są poprawne
+        }
+
 
         // DELETE: api/LoginDetails/5
         [HttpDelete("{id}")]

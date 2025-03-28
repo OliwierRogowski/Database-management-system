@@ -1,1 +1,13 @@
-<p>login-details-form works!</p>
+<form class="container" (submit)="onSubmit(form)" #form="ngForm">
+  <div class="form-floating mb-3 row-md">
+    <input #loginName="ngModel" [(ngModel)]="service.formData.loginName" name="loginName" type="text" class="form-control" placeholder="Login" id="login"/>
+    <label for="loginName">Login</label>
+  </div>
+
+  <div class="form-floating mb-3 row-md">
+    <input #password="ngModel" [(ngModel)]="service.formData.password" name="password" type="password" class="form-control" placeholder="Password" id="password" />
+    <label for="password">Password</label>
+  </div>
+
+  <button type="submit" class="btn btn-primary mb-3">Sign in</button>
+</form>

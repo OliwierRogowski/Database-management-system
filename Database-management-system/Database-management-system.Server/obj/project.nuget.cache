@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "szVcRF7YHMJYlB7CoxNT6lipUECHb9ZRLXRcb1mQiGTPmxeu4dBGdpip6d9avHMk1wnZcsin+96B2p2xfH1S8Q==",
+  "dgSpecHash": "jpDSHR7GcWuZpWxK1cRLxqnVx/NWSmbnHpfCpvJyMlx2j0JB+SpgIxHmAIHL/JLhnc2hCvYC3u66SfTmIVt83A==",
   "success": true,
   "projectFilePath": "C:\\Users\\orogo\\Desktop\\Database-management-system\\Database-management-system\\Database-management-system.Server\\Database-management-system.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\orogo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\orogo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\orogo\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\orogo\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\orogo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\orogo\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

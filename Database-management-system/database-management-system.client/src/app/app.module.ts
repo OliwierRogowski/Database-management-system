@@ -6,6 +6,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LoginDetailsComponent } from './login-details/login-details.component';
 import { LoginDetailsFormComponent } from './login-details/login-details-form/login-details-form.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -14,8 +15,10 @@ import { LoginDetailsFormComponent } from './login-details/login-details-form/lo
     LoginDetailsFormComponent
   ],
   imports: [
-    BrowserModule, HttpClientModule,
-    AppRoutingModule
+    BrowserModule,
+    HttpClientModule,
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
